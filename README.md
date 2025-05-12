@@ -1,6 +1,6 @@
 # OPSC6311_POE
 
-We had to upload the folder as a compressed file, as github did not allow up to insert the individual folders.
+We had to upload the folder as a compressed file, as github did not allow us to insert the individual folders.
 
 Youtube Video: https://youtu.be/G3YDQme7WH0
 
