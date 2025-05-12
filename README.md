@@ -1,5 +1,7 @@
 # OPSC6311_POE
 
+We had to upload the folder as a compressed file, as github did not allow up to insert the individual folders.
+
 Youtube Video: https://youtu.be/G3YDQme7WH0
 
 Built in APK - APK 36 Pixel 8 Pro Phone
